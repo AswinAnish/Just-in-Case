@@ -20,6 +20,6 @@ for x in l:
 	for r in l2:
 		product=x*r
 		l3.append(product)
-cd 0.		product = 1
+		product = 1
 print(l3)
-cd
+
